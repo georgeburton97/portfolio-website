@@ -178,10 +178,10 @@ h3 {
 #wordmark {
     margin: 0 auto;
     /* margin-top: 2000px; */
-    height: 53px;
-    width: 290px;
+    height: 45px;
+    width: 271px;
     display: block;
-    background-image: url(images/georgelogo3.svg);
+    background-image: url(images/newlogo.png);
     text-indent: -1000000em;
 }
 
@@ -302,9 +302,6 @@ dde7c7 */
 }
 
 /*SUB NAV SPRITES - RESTING*/
-
-#video_and_animation {
-}
 
 #graphic_design {
     background-position-x: -50px;
@@ -691,10 +688,6 @@ textarea {
         max-height: 451px;
     }
 
-    #wordmark {
-        /* margin-top: 30px; */
-    }
-
     #maincontent {
         width: 70%;
         max-width: 970px;
@@ -765,9 +758,6 @@ textarea {
     }
 
     /*SUB NAV SPRITES - RESTING*/
-
-    #video_and_animation {
-    }
 
     #graphic_design {
         background-position-x: -100px;
@@ -869,12 +859,12 @@ h3 a {
 }
 
 @media only screen and (max-width: 769px) {
- h3.remove-border{
-    border: none;
-    margin-top: 0;
-    padding-top: 0;
-    font-size: 0px;
-    line-height: 0%;
-    display: none;
- }
-   
+    h3.remove-border {
+        border: none;
+        margin-top: 0;
+        padding-top: 0;
+        font-size: 0px;
+        line-height: 0%;
+        display: none;
+    }
+}
